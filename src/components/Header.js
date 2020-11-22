@@ -6,15 +6,17 @@ import avatar from '../assets/images/avatar.jpg'
 const Header = () => (
   <header id="header">
     <div className="inner">
-      <a href="#" className="image avatar">
-        <img src={avatar} alt="" />
+      <a href="https://en.wikipedia.org/wiki/Infinite_monkey_theorem" className="image avatar">
+        <img src={avatar} alt="It's my noggin" />
       </a>
       <h1>
-        <strong>I am Strata</strong>, a super simple
+        <strong>Hi, I'm Trevor, a...</strong>
         <br />
-        responsive site template freebie
+        Software Engineer
         <br />
-        crafted by <a href="http://html5up.net">HTML5 UP</a>.
+        Teacher
+        <br />
+        Writer
       </h1>
     </div>
     <Footer />
