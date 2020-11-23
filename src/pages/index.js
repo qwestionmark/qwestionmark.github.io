@@ -20,13 +20,12 @@ const HomeIndex = () => {
           <header className="major">
             <h2>
               Welcome to CrossedKeys, an exploration of the intersection between coding and creative writing.
-              <br />
-              The journey starts here.
+
             </h2>
           </header>
           <p>
-            "With enough monkeys and typewriters, you'll eventually have written Shakespeare."
-            I'm a self-styled monkey in Shakespeare's endless publishing house.
+            "With infinite monkeys and typewriters, you'll eventually have written Shakespeare."
+            I'm a self-styled code monkey in Shakespeare's endless publishing house. This blog and portfolio documents my journey in ....
           </p>
           <ul className="actions">
             <li>
